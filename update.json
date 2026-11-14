@@ -1,0 +1,9 @@
+{
+    "notes":  "Versão 3.1\n• 99: corridas agora entram no Meu dia (a tela de corrida da 99 não era reconhecida)\n• 99: tempo do card corrigido (o leitor lia \"913 min\" em vez de \"13 min\" e a tarifa base como preço)\n• App mais leve: leitura da tela e gravação em segundo plano\n• Bolinha de emergência: segurar 1 s ou tocar 3 vezes rápido\n• Dia encerra sozinho após 5 h sem atividade (ajustável); na próxima jornada pergunta: continuar o dia ou começar outro",
+    "client":  {
+                   "code":  13,
+                   "name":  "3.1",
+                   "apk":  "CorridaCerta.apk",
+                   "sha256":  "55473fed75eca8275a3c769beb93d51eb17ffe840f310d51a14959dbce69ebeb"
+               }
+}
