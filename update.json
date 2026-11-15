@@ -1,9 +1,9 @@
 {
-    "notes":  "Versão 3.3\n• A página \"Sobre\" (versão e atualizar) agora fica dentro de Suporte",
+    "notes":  "Versão 3.4\n• 99: o card agora aparece também nas ofertas que mostram \"Tarifa base\" em vez do R$/km (antes algumas ofertas da 99 ficavam sem card)",
     "client":  {
-                   "code":  15,
-                   "name":  "3.3",
+                   "code":  16,
+                   "name":  "3.4",
                    "apk":  "CorridaCerta.apk",
-                   "sha256":  "151248b0eec721cede9ec58482961630505e396583b2bb50f033159773a78214"
+                   "sha256":  "6537771d948fe50a8a0c105dd75e66cea7bc08dec65347e76ea787f4e0376923"
                }
 }
