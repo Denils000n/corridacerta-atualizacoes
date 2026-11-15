@@ -1,9 +1,9 @@
 {
-    "notes":  "Versão 3.1\n• 99: corridas agora entram no Meu dia (a tela de corrida da 99 não era reconhecida)\n• 99: tempo do card corrigido (o leitor lia \"913 min\" em vez de \"13 min\" e a tarifa base como preço)\n• App mais leve: leitura da tela e gravação em segundo plano\n• Bolinha de emergência: segurar 1 s ou tocar 3 vezes rápido\n• Dia encerra sozinho após 5 h sem atividade (ajustável); na próxima jornada pergunta: continuar o dia ou começar outro",
+    "notes":  "Versão 3.2\n• Card: o tempo de busca agora é exatamente o que a Uber/99 mostra (sem a correção \"8→10 min\"); R$/h calculado com esse tempo\n• Botão \"COLAR MENSAGEM\" aparece só na tela do chat com o passageiro e some ao sair dela\n• Nova página \"Sobre\" (tela inicial): mostra a versão instalada e atualiza o app com um toque",
     "client":  {
-                   "code":  13,
-                   "name":  "3.1",
+                   "code":  14,
+                   "name":  "3.2",
                    "apk":  "CorridaCerta.apk",
-                   "sha256":  "55473fed75eca8275a3c769beb93d51eb17ffe840f310d51a14959dbce69ebeb"
+                   "sha256":  "fafd27a4a1408a6defc6dce565d92399ebdee31ec533931250ce336031be5771"
                }
 }
