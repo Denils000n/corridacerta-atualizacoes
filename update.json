@@ -1,9 +1,9 @@
 {
-    "notes":  "Versão 3.2\n• Card: o tempo de busca agora é exatamente o que a Uber/99 mostra (sem a correção \"8→10 min\"); R$/h calculado com esse tempo\n• Botão \"COLAR MENSAGEM\" aparece só na tela do chat com o passageiro e some ao sair dela\n• Nova página \"Sobre\" (tela inicial): mostra a versão instalada e atualiza o app com um toque",
+    "notes":  "Versão 3.3\n• A página \"Sobre\" (versão e atualizar) agora fica dentro de Suporte",
     "client":  {
-                   "code":  14,
-                   "name":  "3.2",
+                   "code":  15,
+                   "name":  "3.3",
                    "apk":  "CorridaCerta.apk",
-                   "sha256":  "fafd27a4a1408a6defc6dce565d92399ebdee31ec533931250ce336031be5771"
+                   "sha256":  "151248b0eec721cede9ec58482961630505e396583b2bb50f033159773a78214"
                }
 }
