@@ -1,9 +1,9 @@
 {
-    "notes":  "Versão 3.4\n• 99: o card agora aparece também nas ofertas que mostram \"Tarifa base\" em vez do R$/km (antes algumas ofertas da 99 ficavam sem card)",
+    "notes":  "Versão 3.6\n• Avisos aos parentes agora só pelo Telegram (e SMS opcional): o envio pelo WhatsApp (CallMeBot) foi retirado\n• Bolinha de emergência mais segura: os 3 toques rápidos só contam EM CIMA da bolinha (tocar na tela ao lado não aciona mais) e precisam ser em até 1,5 s\n• Pânico: começa a gravar na hora, mas só avisa a família depois de 10 s — se cancelar antes, ninguém recebe nada",
     "client":  {
-                   "code":  16,
-                   "name":  "3.4",
+                   "code":  18,
+                   "name":  "3.6",
                    "apk":  "CorridaCerta.apk",
-                   "sha256":  "6537771d948fe50a8a0c105dd75e66cea7bc08dec65347e76ea787f4e0376923"
+                   "sha256":  "0313ee2418e275b7e25173978e72eff3d99986b5e9316d08659f9150c23afc4c"
                }
 }
