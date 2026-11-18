@@ -1,9 +1,9 @@
 {
-    "notes":  "Versão 3.7\n• Bolinha de emergência: ao DESATIVAR, a gravação que o pânico abriu é encerrada e salva na hora (antes podia continuar como \"Corrida em andamento\")",
+    "notes":  "Versão 3.8\n• 99: o card da oferta agora abre também quando você está em corrida na Uber (a oferta do 99 aparece flutuando por cima da Uber e não era lida)\n• 99: o card abre quando chega uma nova oferta durante uma corrida do próprio 99, e a navegação do 99 não encerra mais a corrida antes da hora (isso criava uma \"corrida seguida\" falsa)\n• Onde rodar: nova seção \"Eventos na cidade AGORA\" — a IA pesquisa no Google os shows, jogos e feiras de hoje, com horário de saída do público, distância e botão do Waze (atualiza sozinha ao abrir, 1 vez por hora, com a jornada ligada)\n• Uber: corridas voltam a ser contadas no Meu dia — a corrida conta quando o passageiro embarca (\"Destino de…\") e termina, mesmo sem o card \"Como foi a viagem?\"\n• Uber: a tela inicial parada não é mais confundida com corrida (ofertas recusadas não viram corrida e a corrida termina quando você volta para a tela inicial)\n• Suporte: novo e-mail suportecorridacerta05@gmail.com\n• Telas do 99 Pay / Pix não são mais guardadas no arquivo de diagnóstico",
     "client":  {
-                   "code":  19,
-                   "name":  "3.7",
+                   "code":  20,
+                   "name":  "3.8",
                    "apk":  "CorridaCerta.apk",
-                   "sha256":  "2302d0ed8853305e2340e6dc976034e2d947a6e361cfb8963c3aa0f3d1e6ab65"
+                   "sha256":  "096a1e50e95c34ca45d70226ebe7febc7e8c2cc11630b6e89935f5ab8be25ece"
                }
 }
