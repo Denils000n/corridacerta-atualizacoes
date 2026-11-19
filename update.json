@@ -1,9 +1,9 @@
 {
-    "notes":  "Versão 3.8\n• 99: o card da oferta agora abre também quando você está em corrida na Uber (a oferta do 99 aparece flutuando por cima da Uber e não era lida)\n• 99: o card abre quando chega uma nova oferta durante uma corrida do próprio 99, e a navegação do 99 não encerra mais a corrida antes da hora (isso criava uma \"corrida seguida\" falsa)\n• Onde rodar: nova seção \"Eventos na cidade AGORA\" — a IA pesquisa no Google os shows, jogos e feiras de hoje, com horário de saída do público, distância e botão do Waze (atualiza sozinha ao abrir, 1 vez por hora, com a jornada ligada)\n• Uber: corridas voltam a ser contadas no Meu dia — a corrida conta quando o passageiro embarca (\"Destino de…\") e termina, mesmo sem o card \"Como foi a viagem?\"\n• Uber: a tela inicial parada não é mais confundida com corrida (ofertas recusadas não viram corrida e a corrida termina quando você volta para a tela inicial)\n• Suporte: novo e-mail suportecorridacerta05@gmail.com\n• Telas do 99 Pay / Pix não são mais guardadas no arquivo de diagnóstico",
+    "notes":  "Versão 3.9\n• Uber: corrida não é mais contada duas vezes. Abrir a gaveta \"Você está online / Procurando viagens\" ou o perfil NO MEIO da corrida encerrava a corrida; quando a tela do passageiro voltava, ela era contada de novo ou virava uma \"corrida nova\" com a última oferta recusada (18/11: Geovane, Xiu, R$7,06 das 11h31). Agora, se a tela do MESMO passageiro volta, é a mesma corrida\n• Uber: a corrida com passageiro a bordo conta 90 s depois do fim (ou na hora, com o valor real, quando aparece o card \"Como foi a viagem?\" ou o HOJE)\n• Uber: o card de fim de um passageiro já contado só corrige o valor (não conta de novo)\n• Gravação e aviso \"FINALIZOU\" à família não são mais cortados por essa gaveta no meio da corrida\n• Simulado com as telas reais: 18/11 = 18 corridas (igual à Uber), 17/11 = 4",
     "client":  {
-                   "code":  20,
-                   "name":  "3.8",
+                   "code":  21,
+                   "name":  "3.9",
                    "apk":  "CorridaCerta.apk",
-                   "sha256":  "096a1e50e95c34ca45d70226ebe7febc7e8c2cc11630b6e89935f5ab8be25ece"
+                   "sha256":  "71d656e534b0e7d521a62b31e493ce3388bb7de5c57f54bd52eee9be9392e266"
                }
 }
