@@ -1,9 +1,9 @@
 {
-    "notes":  "Versão 3.9\n• Uber: corrida não é mais contada duas vezes. Abrir a gaveta \"Você está online / Procurando viagens\" ou o perfil NO MEIO da corrida encerrava a corrida; quando a tela do passageiro voltava, ela era contada de novo ou virava uma \"corrida nova\" com a última oferta recusada (18/11: Geovane, Xiu, R$7,06 das 11h31). Agora, se a tela do MESMO passageiro volta, é a mesma corrida\n• Uber: a corrida com passageiro a bordo conta 90 s depois do fim (ou na hora, com o valor real, quando aparece o card \"Como foi a viagem?\" ou o HOJE)\n• Uber: o card de fim de um passageiro já contado só corrige o valor (não conta de novo)\n• Gravação e aviso \"FINALIZOU\" à família não são mais cortados por essa gaveta no meio da corrida\n• Simulado com as telas reais: 18/11 = 18 corridas (igual à Uber), 17/11 = 4",
+    "notes":  "Versão 3.10\r\n• Meu dia: cada corrida mostra o nome do passageiro (👤). Uber: o nome do \"Encontro com…/Destino de…\"; 99: o nome do \"Digite o PIN de…\". Vale para as corridas contadas a partir desta versão\r\n\r\nVersão 3.9\r\n• Uber: corrida não é mais contada duas vezes. Abrir a gaveta \"Você está online / Procurando viagens\" ou o perfil NO MEIO da corrida encerrava a corrida; quando a tela do passageiro voltava, ela era contada de novo ou virava uma \"corrida nova\" com a última oferta recusada (18/11: Geovane, Xiu, R$7,06 das 11h31). Agora, se a tela do MESMO passageiro volta, é a mesma corrida\r\n• Uber: a corrida com passageiro a bordo conta 90 s depois do fim (ou na hora, com o valor real, quando aparece o card \"Como foi a viagem?\" ou o HOJE)\r\n• Uber: o card de fim de um passageiro já contado só corrige o valor (não conta de novo)\r\n• Gravação e aviso \"FINALIZOU\" à família não são mais cortados por essa gaveta no meio da corrida\r\n• Simulado com as telas reais: 18/11 = 18 corridas (igual à Uber), 17/11 = 4",
     "client":  {
-                   "code":  21,
-                   "name":  "3.9",
+                   "code":  22,
+                   "name":  "3.10",
                    "apk":  "CorridaCerta.apk",
-                   "sha256":  "71d656e534b0e7d521a62b31e493ce3388bb7de5c57f54bd52eee9be9392e266"
+                   "sha256":  "e8943c41a48c193247a4ee2e5e3d5ea7e4fec049e857df24a5b3363058b6e744"
                }
 }
